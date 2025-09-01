@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Coverage / test
+.tox/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# System files
+.DS_Store
+
+# Project specific
+db.py
+Agent copy.py
+main.py
+metallama3.2.py
+frontend.html
+Documents/
